@@ -1,6 +1,6 @@
 # OpenLists
 
-OpenLists is a collection of lists that curates open resources and materials for a set of topics. 
+OpenLists is a collection of lists that curates open resources and materials in the areas of science and computation. 
 
 ## List of OpenLists
 
@@ -17,21 +17,23 @@ The collection of OpenLists includes:
 
 ## Overview
 
-The idea behind 'OpenLists' is that though there are a lot of available resources for learning and doing open science, sometimes it can be difficult to know where to start, and/or how to find and navigate materials that are available. To try and help with that, OpenLists is a collection of resources that we have found useful for learning and doing certain tasks, and/or finding available tools, data and resources. 
+OpenLists is a collection of resources for learning and doing certain tasks, and/or finding available tools, data and resources. The goal of these collections is to make it easier to find and navigate through available materials. 
 
-The 'OpenLists' collections are focused on open materials. By 'open', it means that anything listed in these collections is openly available, without cost to the user. This means that everything listed is open-access and/or open-source, and (where applicable) they should all have permissive licenses for re-use.
+The 'Open' part of 'OpenLists' means both that these lists are openly available, and that all referenced materials should be open-access and/or open-source, and (where applicable) should have permissive licenses that allow for re-use.
 
-Note that being included in an OpenList collection is not meant as an official endorsement, nor does it imply that we have systematically validated each resource.
+Note that being included in an OpenList collection is not an endorsement. Although listed resources are selected for being hopefully useful, we do not systematically evaluate and validate each resource. 
 
 ## Scope
 
-The idea for the scope of 'OpenLists' is to cover science & computation. The original collections are focused on relevant resources for open science and computation driven work in cognitive neuroscience, with a focus on electrophysiology (based on the original contributors). Other links and lists are welcome, though the goal shall remain to serve the community do computation driven and open science work, and to list and collect resources not already well collected & curated by other resources.
+The scope of 'OpenLists' is broadly science & computation, with a focus on open-science and open-access materials and approaches. Some of the materials are more specifically related to cognitive and computational neuroscience, with a focus on electrophysiology. 
 
 ## Contributing
 
 The 'OpenLists' collections welcome contributions and suggestions from the community!
 
-If you would to contribute or recommend a listing in any of the existing lists, or report any kind of issue with a listed item, please just open an issue on Github, on the relevant repo, and/or open a pull request with the suggested update.
+If you would to suggest a new resource, please open an issue on Github, on the relevant repository, and/or directly open a pull request with the suggested update. 
+
+If you find an issue with a listed repository, please open an issue, and we can edit or remove the listing. 
 
 We are also open to adding new lists of materials, or linking to existing collections. For that, please open an issue on this repository. 
 
