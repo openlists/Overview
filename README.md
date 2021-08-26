@@ -11,6 +11,7 @@ The collection of OpenLists includes:
 - [Digital Signal Processing Resources](https://github.com/openlists/DSPResources)
 - [Open Electrophysiological Data](https://github.com/openlists/ElectrophysiologyData)
 - [Open Electrophysiological Software](https://github.com/openlists/ElectrophysiologySoftware)
+- [Spike Resources](https://github.com/openlists/SpikeResources/)
 - [Open Task Software & Resources](https://github.com/openlists/OpenTasks)
 - [NeuroOntologies](https://github.com/openlists/NeuroOntologies)
 - [Other Lists](https://github.com/openlists/OtherLists)
