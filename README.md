@@ -38,4 +38,4 @@ If you find an issue with a listed repository, please open an issue, and we can 
 
 We are also open to adding new lists of materials, or linking to existing collections. For that, please open an issue on this repository. 
 
-Note that to interact with the OpenLists organization you must follow the [Code of Conduct](https://github.com/openlists/Overview/blob/master/CODE_OF_CONDUCT.md).
+Note that to interact with the OpenLists organization you must follow the [Code of Conduct](https://github.com/openlists/Overview/blob/main/CODE_OF_CONDUCT.md).
