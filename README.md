@@ -2,10 +2,10 @@
 
 OpenLists is a collection of lists that curates open resources and materials in the areas of science and computation.
 
-This project is maintained by 
+This collection is maintained by 
 [Tom Donoghue](https://tomdonoghue.github.io/), 
-and organized through the 
-[Github organzation](https://github.com/openlists/).
+and managed through the 
+[Github organization](https://github.com/openlists/).
 
 ## List of OpenLists
 
